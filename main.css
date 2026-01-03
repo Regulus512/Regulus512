@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    max-width:1000px;
+    min-height:80px;
+    padding:20px;
+    margin: 10px auto;
+    background-color:blue;
+}
+div#logo{
+    width:100px;
+    line-height:50px;
+    color:yellowgreen;
+    font-weight: 900;
+    font-size: 30px;
+    text-align: center;
+    background-color:azure;
+}
