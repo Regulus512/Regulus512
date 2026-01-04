@@ -7,9 +7,10 @@ header {
     min-height:80px;
     padding:20px;
     margin: 10px auto;
-    background-color:blue;
+    background-color:green;
 }
-div#logo{
+
+#logo{
     width:100px;
     line-height:50px;
     color:yellowgreen;
@@ -18,3 +19,4 @@ div#logo{
     text-align: center;
     background-color:azure;
 }
+
