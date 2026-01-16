@@ -20,3 +20,58 @@ header {
     background-color:azure;
 }
 
+main{
+    width:1000px;
+    height:100%;
+    margin: 30px auto;
+
+    /* background-color:aliceblue; */
+}
+/* Test width/height */
+h3 {
+    font-weight: 600;
+    font-size:24px;
+    margin: 10px 0;
+}
+.a
+{
+    background-color:aquamarine;
+    width: 500px;
+    height:300px;
+}
+
+.b
+{
+    background-color:cornflowerblue;
+    width: 500px;
+    min-height:300px;
+}
+.box
+{
+    background-color:burlywood;
+    width: 490px;
+    border: 2px solid black;
+    line-height:290px;
+    text-align:center;
+}
+
+main > section
+{
+    width: 400px;
+    min-height: 400px;
+    background-color: greenyellow;
+    border: black 2px solid;
+}
+
+section > figure
+{
+    height:100px;
+    background-color:white;
+}
+
+aside{
+    width:100px;
+    height:100px;
+    background-color:pink;
+    border: black 2px solid;
+}
