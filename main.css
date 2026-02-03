@@ -19,3 +19,14 @@ div#logo{
     text-align: center;
     background-color:azure;
 }
+ul li{
+    display:inline-block;
+}
+ul li:before{
+    content:'|';
+    font-weight:900;
+}
+
+.btn.d{
+    color:red;
+}
