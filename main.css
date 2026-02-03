@@ -28,5 +28,6 @@ ul li:before{
 }
 
 .btn.d{
+    font: calc(40px/10) "Noto Sans";
     color:red;
 }
